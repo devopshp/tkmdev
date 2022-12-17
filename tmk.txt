@@ -1,8 +1,5 @@
 working with cars
 Working with Banglore production form fornt end
 working with proction house for manufacture new models
-<<<<<<< HEAD
 TKM working with india front end
-=======
 Working with japan remotelly
->>>>>>> refs/remotes/origin/main
